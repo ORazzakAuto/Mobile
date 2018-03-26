@@ -16,7 +16,7 @@ public class base_chrome {
 	public static AndroidDriver<AndroidElement> Capabilities() throws MalformedURLException {
 		
 		
-		// TODO Auto-generated method stub
+		// TODO Auto-generated method stub example
 	/** File f= new File("src");
      File fs= new File(f,"ApiDemos-debug.apk");
      **/
